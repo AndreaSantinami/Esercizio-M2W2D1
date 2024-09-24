@@ -1,0 +1,66 @@
+.contenitore{
+    margin: 10px;
+    padding: 10px;
+    border: solid 2px lightgray;
+    border-radius: 50px;
+    
+}
+
+.contenitore .ris{
+    text-align: center;
+}
+.font{
+    font-family:'Courier New', Courier, monospace;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    text-align: center;
+    font-style: oblique;
+    
+}
+
+.form{
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    height: 60px;
+    background-color: transparent;
+    border-color: grey;
+    border-radius: 50px;
+    font-family:'Courier New', Courier, monospace;    
+}
+
+.bottone{
+    text-align: center;
+}
+
+.ris{
+    font-family:'Courier New', Courier, monospace;   
+    color: red;
+    font-size:  25px; 
+    font-weight: bold;
+}
+
+label{
+    color: grey;
+}
+
+input{
+    background-color: cadetblue;
+    border: hidden;
+    border-radius: 50px;
+    color: white;
+    height: 25px;
+    text-align: center;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;   
+    font-weight: bold;
+
+}
+
